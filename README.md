@@ -75,4 +75,4 @@ Whether you're interested in my resume or want to chat, feel free to email me at
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexanderjlap&theme=dark)
 
-![Bomberman animation](https://raw.githubusercontent.com/alexanderjlap/alexanderjlap/main/output/bomberman-contribution-graph.svg)
+![Bomberman animation](https://raw.githubusercontent.com/alexanderjlap/alexanderjlap/output/bomberman-contribution-graph.svg)
