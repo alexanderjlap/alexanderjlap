@@ -80,5 +80,3 @@ Whether you're interested in my resume or want to chat, feel free to email me at
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[alexanderjlap]/[alexanderjlap]/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[alexanderjlap]/[alexanderjlap]/output/pacman-contribution-graph.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
