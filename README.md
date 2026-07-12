@@ -26,6 +26,7 @@ Whether you're interested in my resume or want to chat, feel free to email me at
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![SQL](https://img.shields.io/badge/SQL-%23303234?style=flat&logo=microsoftsqlserver&logoColor=white)](#)
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 **Frameworks**
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
