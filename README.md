@@ -74,3 +74,10 @@ Whether you're interested in my resume or want to chat, feel free to email me at
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexanderjlap&theme=dark)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexanderjlap&theme=dark)
+
+<!-- [bomberman] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[alexanderjlap]/[alexanderjlap]/output/[bomberman]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[alexanderjlap]/[alexanderjlap]/output/[bomberman]-contribution-graph.svg">
+    <img alt="[bomberman] contribution graph" src="https://raw.githubusercontent.com/[alexanderjlap]/[alexanderjlap]/output/[bomberman]-contribution-graph.svg">
+</picture>
