@@ -12,7 +12,7 @@ Whether you're interested in my resume or want to chat, feel free to email me at
 
 ---
 
-## Tech Stack
+## Skills
 
 **Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
